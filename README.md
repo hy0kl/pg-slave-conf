@@ -1,0 +1,2 @@
+# PostgreSQL slave conf
+
